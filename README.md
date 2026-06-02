@@ -19,9 +19,14 @@ S.No	Name of the Apparatus	Range	Quantity
 
 CIRCUIT DIAGRAM:
 
-<img width="1074" height="1486" alt="line regulation" src="https://github.com/user-attachments/assets/39dc5cc1-a3b8-4b3d-90fe-af6a289c347b" />
+LINE REGULATION:
 
-<img width="1044" height="1477" alt="load regulation" src="https://github.com/user-attachments/assets/0726381b-6bc3-490b-a25a-87bc4c6b0090" />
+<img width="952" height="380" alt="image" src="https://github.com/user-attachments/assets/e5d534fa-d1d1-45fc-9222-cb08f5c10611" />
+
+LOAD REGULATION:
+
+<img width="958" height="344" alt="image" src="https://github.com/user-attachments/assets/7d30641c-0cae-4a14-bfd8-b19a611fe483" />
+
 
 
 THEORY:
@@ -37,9 +42,17 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
+OBSERVATIONS:
 
-V-I & REGULATION CHARACTERISTICS:
+LINE REGULATION CHARACTERISTICS:
+
+<img width="1074" height="1486" alt="line regulation" src="https://github.com/user-attachments/assets/39dc5cc1-a3b8-4b3d-90fe-af6a289c347b" />
+
+LOAD REGULATION CHARACTERISTICS:
+
+<img width="1044" height="1477" alt="load regulation" src="https://github.com/user-attachments/assets/0726381b-6bc3-490b-a25a-87bc4c6b0090" />
+
+
 
 PRECAUTIONS:
 
